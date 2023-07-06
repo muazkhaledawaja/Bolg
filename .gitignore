@@ -1,9 +1,10 @@
 # compiled output
 /dist
 /node_modules
-.env
+.env.sample
 /config/config.json
 db/config.ts
+.env
 # Logs
 logs
 *.log
