@@ -15,7 +15,7 @@
     "materialize-css": "0.100.2",
     "react": "16.0.0-alpha.13",
     "react-dom": "16.0.0-alpha.13",
-    "react-redux": "5.0.5",
+    "react-redux": "5.1.2",
     "react-router-dom": "4.1.1",
     "react-scripts": "1.1.5",
     "redux": "3.7.1",
